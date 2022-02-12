@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909988331566",
+    "project_id": "login-register-firebase-267c9",
+    "storage_bucket": "login-register-firebase-267c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909988331566:android:985cbd31b2622062215fbf",
+        "android_client_info": {
+          "package_name": "com.satyampra.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909988331566-sj03n4sqv2tmh06s1569j1tp31udvfsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyampra.loginregisterfirebase",
+            "certificate_hash": "f157374441d52580d80d474362204216a7b18c1a"
+          }
+        },
+        {
+          "client_id": "909988331566-fums5ntmapk6e0t943d3ntjd3ivvnkgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PVgRIDLuhF23akxXIoQTF6VLFuNkBWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909988331566-fums5ntmapk6e0t943d3ntjd3ivvnkgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
